@@ -17,4 +17,4 @@ btnSi.addEventListener('click', function(e){
     cancion.play();
 }); 
 
-//Minuto 1:48:00
+//DOM document object   model es una interfaz HTML -> DOM <- JAVASCRIPT
